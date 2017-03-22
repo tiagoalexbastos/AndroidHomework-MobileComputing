@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Atualizar"
+        android:id="@+id/refresh_tv" />
+    <item android:title="Limpar Lista"
+        android:id="@+id/clean_list" />
+    <item android:title="Mostrar Mapa"
+        android:id="@+id/show_map" />
+
+</menu>
